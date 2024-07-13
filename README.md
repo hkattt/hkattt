@@ -22,7 +22,7 @@ I am a fourth-year student at the ANU. I am especially interested in topics rela
 </div>
 
 # Contact
-<a href="https://www.linkedin.com/in/hugo-kat-294602243/">
+<a href="https://www.linkedin.com/in/hugo-kat/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
