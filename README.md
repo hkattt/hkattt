@@ -8,7 +8,8 @@ This README was heavily inspired by Nida Khan's blog: https://www.sitepoint.com/
 I am a fourth-year student at the ANU. I am especially interested in topics related to computer systems such as operating systems, embedded system, networking, and computer graphics. 
 
 # Projects
-- **[Fast Paint Texture](https://github.com/hkattt/fast-paint-texture)**: Reimplemented Aaron Hertzmann's Fast Paint Texture algorithm presented in Fast Paint Texture algorithm in C++. Generates an image with a hand-painted apperance from a provided source image.  
+### [Fast Paint Texture](https://github.com/hkattt/fast-paint-texture)
+Reimplemented Aaron Hertzmann's Fast Paint Texture algorithm presented in Fast Paint Texture algorithm in C++. Generates an image with a hand-painted apperance from a provided source image.  
 
 # Technologies
 <div>
