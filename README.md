@@ -11,6 +11,9 @@ I am a fourth-year student at the ANU. I am especially interested in topics rela
 ### [Fast Paint Texture](https://github.com/hkattt/fast-paint-texture)
 Reimplemented Aaron Hertzmann's Fast Paint Texture algorithm presented in Fast Paint Texture algorithm in C++. Generates an image with a hand-painted apperance from a provided source image.  
 
+### [Interrogation](https://github.com/hkattt/fast-paint-texture)
+Created a murder-mystery game called Interrogation for [GitHub Game Off 2024](https://itch.io/jam/game-off-2024) using Godot 4.
+
 # Technologies
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
